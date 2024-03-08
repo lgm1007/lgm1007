@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=Hello+World!+This+is+lgm1007+GitHub)](https://git.io/typing-svg)
+[![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&random=false&width=435&lines=Hello+World!+This+is+lgm1007+GitHub)](https://git.io/typing-svg)
 
 </div>
 
