@@ -22,4 +22,14 @@
 #### 📈 Contribution Graph 📈
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=lgm1007&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF)
 
+<br/>
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/lgm1007"
+  width="600"
+  height="300"
+/>
+</a>
+
 </div>
