@@ -2,6 +2,10 @@
 
 [![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&random=false&width=435&lines=Hello+World!+This+is+lgm1007+GitHub)](https://git.io/typing-svg)
 
+<br/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flgm1007&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
 
 <br/>
@@ -19,12 +23,12 @@
 
 <br/>
 
-#### 📈 Contribution Graph 📈
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=lgm1007&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF)
+#### 📊 Contribution Stats 📊
+![Stats Card](https://github-readme-stats.vercel.app/api?username=lgm1007&show_icons=true&theme=react&include_all_commits=true)
 
 <br/>
 
-#### 😸 Contribution Pet 😸
+#### 😸 Contribution Pets 😸
 
 <a href="https://github.com/devxb/gitanimals">
 <img
