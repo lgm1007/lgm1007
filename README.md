@@ -24,7 +24,7 @@
 <br/>
 
 #### 📊 Contribution Stats 📊
-![Stats Card](https://github-readme-stats.vercel.app/api?username=lgm1007&show_icons=true&theme=react&include_all_commits=true)
+![Stats Card](https://github-readme-stats.vercel.app/api?username=lgm1007&show=reviews&hide=contribs&show_icons=true&theme=react&include_all_commits=true)
 
 <br/>
 
