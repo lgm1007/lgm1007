@@ -20,8 +20,8 @@
 <br/>
 
 #### 📊 My Stats 📊
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lgm1007&show=reviews&hide=contribs&show_icons=true&theme=react&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgm1007&layout=compact&theme=react&hide=jupyter%20notebook"/>
+![contribs](images/contribs.svg)
+![languages](images/languages.svg)
 
 <br/>
 <br/>
