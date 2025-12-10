@@ -25,29 +25,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate the languages distribution
+      - name: Generate the stats distribution
         uses: cicirello/user-statistician@v1
         with:
-          image-file: images/languages.svg
+          image-file: images/stats.svg
           colors: dark
-          hide-keys: general, contributions, repositories
-        env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-
-      - name: Generate the contributions stats
-        uses: cicirello/user-statistician@v1
-        with:
-          image-file: images/contribs.svg
-          colors: dark
-          hide-keys: general, languages, repositories
-        env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-
-      - name: Generate the repositories stats
-        uses: cicirello/user-statistician@v1
-        with:
-          image-file: images/repos.svg
-          colors: dark
-          hide-keys: general, contributions, languages
+          hide-keys: general, repositories
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
