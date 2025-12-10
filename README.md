@@ -20,8 +20,7 @@
 <br/>
 
 #### 📊 My Stats 📊
-![contribs](images/contribs.svg)
-![languages](images/languages.svg)
+[![stats](images/stats.svg)](https://github.com/cicirello/user-statistician)
 
 <br/>
 <br/>
