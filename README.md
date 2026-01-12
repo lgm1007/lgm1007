@@ -15,16 +15,21 @@
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
 </a>
 <br/>
-<img src="https://github.com/user-attachments/assets/f4215a63-2b56-473e-80b7-48526a281665" style="width:350px" />
+<img src="https://github.com/user-attachments/assets/f4215a63-2b56-473e-80b7-48526a281665" width="350" />
 <br/>
 <a href="https://github.com/lgm1007/programmers-badge" target="_blank">
-  <img src="https://raw.githubusercontent.com/lgm1007/programmers-badge/master/static/result.svg" width="40%"/>
+  <img src="https://raw.githubusercontent.com/lgm1007/programmers-badge/master/static/result.svg" width="400"/>
 </a>
 
 <br/>
 
 #### 📊 My Stats 📊
-[![stats](images/stats.svg)](https://github.com/cicirello/user-statistician)
+<a href="https://github.com/cicirello/user-statistician">
+  <img 
+    src="images/stats.svg"
+    width="400"
+  />
+</a>
 
 <br/>
 <br/>
