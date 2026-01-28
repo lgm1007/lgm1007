@@ -24,6 +24,8 @@
 <br/>
 
 #### 📊 My Stats 📊
+<a href="https://www.git-ranker.com/users/lgm1007"><img src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjU3OTgxNjkx" alt="Git Ranker Badge" /></a>
+
 <a href="https://github.com/cicirello/user-statistician">
   <img 
     src="images/stats.svg"

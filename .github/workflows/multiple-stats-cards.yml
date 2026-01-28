@@ -30,6 +30,6 @@ jobs:
         with:
           image-file: images/stats.svg
           colors: dark
-          hide-keys: general, repositories
+          hide-keys: general, repositories, contribTo
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
