@@ -18,7 +18,7 @@
 <img src="https://github.com/user-attachments/assets/f4215a63-2b56-473e-80b7-48526a281665" width="350" />
 <br/>
 <a href="https://github.com/lgm1007/programmers-badge" target="_blank">
-  <img src="https://raw.githubusercontent.com/lgm1007/programmers-badge/master/static/result.svg" width="400"/>
+  <img src="https://raw.githubusercontent.com/lgm1007/programmers-badge/master/static/result.svg" width="350"/>
 </a>
 
 <br/>
