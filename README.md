@@ -25,8 +25,8 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/farms/lgm1007"
-    width="350"
-    height="170"
+    width="355"
+    height="172"
   />
 </a>
 <a href="https://www.git-ranker.com/users/lgm1007">
