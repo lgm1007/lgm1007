@@ -10,13 +10,19 @@
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
 </a>
 
-[![](https://github-profile-trophy-kannan.vercel.app/?username=lgm1007&theme=chalk&row=2&column=4&rank=-C,-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github.com/user-attachments/assets/f4215a63-2b56-473e-80b7-48526a281665" width="310" />
 
+<br/>
 
+<a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none;">
+  <img
+    src="https://github-profile-trophy-kannan.vercel.app/?username=lgm1007&theme=chalk&row=4&column=3&rank=-C,-B,-?"
+  />
+</a>
 <a href="https://github.com/cicirello/user-statistician" style="text-decoration: none;">
   <img 
     src="images/stats.svg"
-    width="400"
+    width="370"
   />
 </a>
 
@@ -39,5 +45,3 @@
 </a>
 
 <br/>
-
-<img src="https://github.com/user-attachments/assets/f4215a63-2b56-473e-80b7-48526a281665" width="310" />
