@@ -12,35 +12,28 @@
 
 [![](https://github-profile-trophy-kannan.vercel.app/?username=lgm1007&theme=chalk&row=2&column=4&rank=-C,-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
-<div style="display: flex; align-items: stretch;">
-  <div style="flex: 1; margin-right: -18%">
-    <a href="https://github.com/cicirello/user-statistician">
-      <img 
-        src="images/stats.svg"
-        width="400"
-      />
-    </a>
-  </div>
 
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 2%;">
-    <a href="https://www.git-ranker.com/users/lgm1007">
-      <img 
-        src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjU3OTgxNjkx" 
-        alt="Git Ranker Badge" 
-      />
-    </a>
-    <a href="https://github.com/lgm1007/programmers-badge" target="_blank">
-      <img src="https://raw.githubusercontent.com/lgm1007/programmers-badge/master/static/result.svg" width="350"/>
-    </a>
-  </div>
-</div>
+<a href="https://github.com/cicirello/user-statistician">
+  <img 
+    src="images/stats.svg"
+    width="400"
+  />
+</a>
+
+<br/>
 
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/lgm1007"
-  width="420"
-  height="210"
-/>
+  <img
+    src="https://render.gitanimals.org/farms/lgm1007"
+    width="350"
+    height="170"
+  />
+</a>
+<a href="https://www.git-ranker.com/users/lgm1007">
+  <img 
+    src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjU3OTgxNjkx" 
+    alt="Git Ranker Badge"
+  />
 </a>
 
 <br/>
