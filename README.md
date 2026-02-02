@@ -1,49 +1,48 @@
-<div align="center">
+## Hi, there
 
-[![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&random=false&width=435&lines=Hello+World!+This+is+lgm1007+GitHub)](https://git.io/typing-svg)
+### Gyumyung Lee -- @lgm1007
 
-</div>
+“Enjoy developing“ — this is my motto.
 
-<br/>
-<br/>
-
-<div align="center">
-
-#### ✏️ Study log ✏️
-[![BLOG-Badge](https://img.shields.io/badge/-%F0%9F%93%92%20BLOG-dfa91a)](https://lgm1007.github.io/) [![TIL-Badge](https://img.shields.io/badge/-%F0%9F%AA%84%20TIL-58a6ff)](https://github.com/lgm1007/TIL)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Flgm1007?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+[![BLOG-Badge](https://img.shields.io/badge/-%F0%9F%93%92%20BLOG-dfa91a)](https://lgm1007.github.io/)
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
-</a>
-<br/>
-<img src="https://github.com/user-attachments/assets/f4215a63-2b56-473e-80b7-48526a281665" width="350" />
-<br/>
-<a href="https://github.com/lgm1007/programmers-badge" target="_blank">
-  <img src="https://raw.githubusercontent.com/lgm1007/programmers-badge/master/static/result.svg" width="350"/>
+<img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
 </a>
 
-<br/>
+[![](https://github-profile-trophy-kannan.vercel.app/?username=lgm1007&theme=chalk&row=2&column=4&rank=-C,-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
-#### 📊 My Stats 📊
-<a href="https://www.git-ranker.com/users/lgm1007"><img src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjU3OTgxNjkx" alt="Git Ranker Badge" /></a>
+<div style="display: flex; align-items: stretch;">
+  <div style="flex: 1; margin-right: -185px">
+    <a href="https://github.com/cicirello/user-statistician">
+      <img 
+        src="images/stats.svg"
+        width="400"
+      />
+    </a>
+  </div>
 
-<a href="https://github.com/cicirello/user-statistician">
-  <img 
-    src="images/stats.svg"
-    width="400"
-  />
-</a>
-
-<br/>
-<br/>
-
-#### 😸 Contribution Pets 😸
+  <div style="flex: 1; display: flex; flex-direction: column; gap: 9px;">
+    <a href="https://www.git-ranker.com/users/lgm1007">
+      <img 
+        src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjU3OTgxNjkx" 
+        alt="Git Ranker Badge" 
+      />
+    </a>
+    <a href="https://github.com/lgm1007/programmers-badge" target="_blank">
+      <img src="https://raw.githubusercontent.com/lgm1007/programmers-badge/master/static/result.svg" width="350"/>
+    </a>
+  </div>
+</div>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/lgm1007"
-  width="600"
-  height="300"
+  width="550"
+  height="270"
 />
 </a>
 
-</div>
+<br/>
+
+<img src="https://github.com/user-attachments/assets/f4215a63-2b56-473e-80b7-48526a281665" width="325" />
