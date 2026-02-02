@@ -34,7 +34,7 @@
   <img
     src="https://render.gitanimals.org/farms/lgm1007"
     width="405"
-    height="203"
+    height="202"
   />
 </a>
 
