@@ -26,13 +26,15 @@
   <img 
     src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjU3OTgxNjkx" 
     alt="Git Ranker Badge"
+    width="400"
+    height="200"
   />
 </a>
 <a href="https://github.com/devxb/gitanimals" style="text-decoration: none;">
   <img
     src="https://render.gitanimals.org/farms/lgm1007"
-    width="355"
-    height="172"
+    width="405"
+    height="203"
   />
 </a>
 
