@@ -4,7 +4,7 @@
 
 “Enjoy developing“ — this is my motto.
 
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Flgm1007?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+[![Hits](https://hits.sh/github.com/lgm1007.svg?view=today-total&color=007ec6)](https://hits.sh/github.com/lgm1007/)
 [![BLOG-Badge](https://img.shields.io/badge/-%F0%9F%93%92%20BLOG-dfa91a)](https://lgm1007.github.io/)
 <a href="https://hhpluscertificateofcompletion.oopy.io/" style="text-decoration: none;">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
