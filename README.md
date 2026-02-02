@@ -13,7 +13,7 @@
 [![](https://github-profile-trophy-kannan.vercel.app/?username=lgm1007&theme=chalk&row=2&column=4&rank=-C,-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div style="display: flex; align-items: stretch;">
-  <div style="flex: 1; margin-right: -185px">
+  <div style="flex: 1; margin-right: -18%">
     <a href="https://github.com/cicirello/user-statistician">
       <img 
         src="images/stats.svg"
@@ -22,7 +22,7 @@
     </a>
   </div>
 
-  <div style="flex: 1; display: flex; flex-direction: column; gap: 9px;">
+  <div style="flex: 1; display: flex; flex-direction: column; gap: 2%;">
     <a href="https://www.git-ranker.com/users/lgm1007">
       <img 
         src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjU3OTgxNjkx" 
@@ -38,11 +38,11 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/lgm1007"
-  width="550"
-  height="270"
+  width="420"
+  height="210"
 />
 </a>
 
 <br/>
 
-<img src="https://github.com/user-attachments/assets/f4215a63-2b56-473e-80b7-48526a281665" width="325" />
+<img src="https://github.com/user-attachments/assets/f4215a63-2b56-473e-80b7-48526a281665" width="310" />
