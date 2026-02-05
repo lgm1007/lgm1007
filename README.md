@@ -17,13 +17,13 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none;">
   <img
     src="https://github-profile-trophy-kannan.vercel.app/?username=lgm1007&theme=chalk&row=4&column=3&rank=-C,-B,-?"
-    width="385"
+    width="393"
   />
 </a>
 <a href="https://github.com/cicirello/user-statistician" style="text-decoration: none;">
   <img 
     src="images/stats.svg"
-    width="420"
+    width="427"
   />
 </a>
 
