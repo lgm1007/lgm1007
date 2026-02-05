@@ -17,7 +17,7 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none;">
   <img
     src="https://github-profile-trophy-kannan.vercel.app/?username=lgm1007&theme=chalk&row=4&column=3&rank=-C,-B,-?"
-    width="390"
+    width="380"
   />
 </a>
 <a href="https://github.com/cicirello/user-statistician" style="text-decoration: none;">
