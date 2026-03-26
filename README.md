@@ -1,3 +1,7 @@
+<div align="center">
+<img src="images/frieren.gif" width="125" />
+</div>
+
 ## Hi, there
 
 ### Gyumyung Lee -- @lgm1007
