@@ -1,5 +1,7 @@
 <div align="center">
-<img src="images/frieren.gif" width="125" />
+  <a href="https://github.com/lgm1007" style="text-decoration: none;">
+    <img src="images/frieren.gif" width="125" />
+  </a>
 </div>
 
 ## Hi, there
